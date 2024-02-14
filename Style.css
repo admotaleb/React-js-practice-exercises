@@ -1,0 +1,35 @@
+﻿*{
+    margin:0px;
+    padding:0px;
+}
+.card {
+         color: black;
+        background: red;
+        padding: 50px;
+        font-size: 20px;
+        display: inline-block;
+
+        
+}
+.cardMain {
+    color: black;
+    background: #65a119;
+    padding: 10px;
+    font-size: 20px;
+    width:400px;
+    margin:10px;
+}
+.CardHadder{
+    text-align:center;
+    font-size:20px;
+    margin:5px;
+
+}
+.CardDescription {
+    text-align: justify
+}
+.CardFotter{
+    margin:5px;
+    text-align:center;
+    font-weight:bold;
+}
